@@ -1,5 +1,9 @@
 # jquery-scrollspy
 
+* 网页定位导航特效 
+
+文章页面，左侧滚动内容时右侧目录也在跟着变化，实现
+
 A jQuery plugin for detecting enter/exit of elements in the viewport when the user scrolls.
 
 ## New Features
